@@ -1,4 +1,4 @@
-version 1.0
+version 1.2
 
 import "humanwgs_structs.wdl"
 import "wdl-common/wdl/workflows/backend_configuration/backend_configuration.wdl" as BackendConfiguration
