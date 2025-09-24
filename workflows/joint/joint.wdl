@@ -1,4 +1,4 @@
-version 1.0
+version 1.2
 
 import "../wdl-common/wdl/structs.wdl"
 import "../wdl-common/wdl/tasks/glnexus.wdl" as Glnexus

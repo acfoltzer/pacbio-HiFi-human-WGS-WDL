@@ -1,4 +1,4 @@
-version 1.0
+version 1.2
 
 import "../humanwgs_structs.wdl"
 import "../wdl-common/wdl/tasks/utilities.wdl" as Utilities
